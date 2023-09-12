@@ -1,0 +1,30 @@
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+#in{
+font-size: 25px;
+background-color: coral;
+width: auto;
+padding: 10px;
+color: teal;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border: 15px dotted yellowgreen;
+    border-radius: 150px;
+    box-shadow: 30px 30px 30px firebrick;
+}
+label{
+    font-size: 20px;
+}
+button{
+    font-size: 40px;
+}
